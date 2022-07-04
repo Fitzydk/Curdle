@@ -1,0 +1,14 @@
+{
+  "name": "curdle",
+  "version": "1.4.0",
+  "description": "This is my curdle game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Game"
+  ],
+  "author": "Brogan Fitzgerald",
+  "license": "ISC"
+}
